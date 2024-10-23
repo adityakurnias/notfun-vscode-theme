@@ -2,7 +2,7 @@
   "name": "notfuntheme",
   "displayName": "notFun",
   "description": "My Own theme for testing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.94.0"
   },
