@@ -1,0 +1,21 @@
+{
+  "name": "notfuntheme",
+  "displayName": "notFun",
+  "description": "My Own theme for testing",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "notFun",
+        "uiTheme": "vs-dark",
+        "path": "./themes/notFun-color-theme.json"
+      }
+    ]
+  }
+}
